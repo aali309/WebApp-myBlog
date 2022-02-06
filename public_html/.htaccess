@@ -1,0 +1,5 @@
+AuthUserFile /home/bth645_221a03/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Matrix student page"
+AuthType Basic
+require valid-user
